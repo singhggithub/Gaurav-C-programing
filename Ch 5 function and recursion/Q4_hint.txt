@@ -1,0 +1,5 @@
+hint 
+fibonacci(n)= fibonacci(n-1)+fibonacci(n-2)
+fibonacci(1)=0 
+or
+fibonacci(2)=1
